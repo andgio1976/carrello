@@ -17,7 +17,14 @@
     "nome":"Poltrona PC",
     "categoria":"Poltrone",
     "prezzo":334.22,
-    "foto":"https://produceshop.it/modules/produce_popup/views/img/upload/popup-1.jpg"
+    "foto":"https://cdn.produceshop.com/146158-large_default/poltrona-gaming-ufficio-ergonomica-cuscino-lombare-bianco-estoril-light.jpg"
     "quantita":12
   },
+  {
+    "nome":"Poltrona TV",
+    "categoria":"Poltrone",
+    "prezzo":434.22,
+    "foto":"https://produceshop.it/modules/produce_popup/views/img/upload/popup-1.jpg"
+    "quantita":16
+  }
 ]
